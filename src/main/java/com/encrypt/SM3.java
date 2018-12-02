@@ -101,7 +101,6 @@ public class SM3 {
 		            System.out.print(Integer.toHexString(h)+" "); 
 		            System.out.println("");*/
         }
-//		      System.out.println("");  
 
         int[] out = new int[8];
         out[0] = a ^ V[0];
